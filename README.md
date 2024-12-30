@@ -5,7 +5,6 @@ A simple Expense Tracker application built with React to manage and track your e
 ## Features
 - Add new expenses with details such as title, amount, and date.
 - View a list of all recorded expenses.
-- Filter expenses by year.
 - Display expenses using dynamic charts.
 - Responsive design for desktop and mobile devices.
 
